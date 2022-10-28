@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.681dfb25.css",
-    "main.js": "./static/js/main.79aa0521.js",
+    "main.css": "./static/css/main.eced2581.css",
+    "main.js": "./static/js/main.069d35cb.js",
+    "static/media/rate-percent.svg": "./static/media/rate-percent.bfb302a1145b947cc5f8a2d8bcfef4c9.svg",
     "static/media/main-bg.png": "./static/media/main-bg.8759aa1a10986a4c7abe.png",
     "static/media/event.png": "./static/media/event.20e3787f0dcb31cf3bbc.png",
     "static/media/iptv-image.png": "./static/media/iptv-image.a527b5c76d4c58afb5a8.png",
@@ -65,11 +66,12 @@
     "index.html": "./index.html",
     "static/media/social-tg.svg": "./static/media/social-tg.508a80e3cf26d04f120592684e2f2094.svg",
     "static/media/button-dropdown.svg": "./static/media/button-dropdown.783ddcdd2136a1385b399509f2452756.svg",
-    "main.681dfb25.css.map": "./static/css/main.681dfb25.css.map",
-    "main.79aa0521.js.map": "./static/js/main.79aa0521.js.map"
+    "static/media/Check.svg": "./static/media/Check.be647eae0ed92615d6b8.svg",
+    "main.eced2581.css.map": "./static/css/main.eced2581.css.map",
+    "main.069d35cb.js.map": "./static/js/main.069d35cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.681dfb25.css",
-    "static/js/main.79aa0521.js"
+    "static/css/main.eced2581.css",
+    "static/js/main.069d35cb.js"
   ]
 }
