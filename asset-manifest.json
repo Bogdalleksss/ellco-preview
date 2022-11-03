@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.eced2581.css",
-    "main.js": "./static/js/main.069d35cb.js",
+    "main.css": "./static/css/main.81fb56ce.css",
+    "main.js": "./static/js/main.5c63817d.js",
     "static/media/rate-percent.svg": "./static/media/rate-percent.bfb302a1145b947cc5f8a2d8bcfef4c9.svg",
     "static/media/main-bg.png": "./static/media/main-bg.8759aa1a10986a4c7abe.png",
     "static/media/event.png": "./static/media/event.20e3787f0dcb31cf3bbc.png",
+    "static/media/kion.png": "./static/media/kion.157138c97aa7171a0876.png",
     "static/media/iptv-image.png": "./static/media/iptv-image.a527b5c76d4c58afb5a8.png",
+    "static/media/smotreshka.png": "./static/media/smotreshka.323587502fe9295b992e.png",
+    "static/media/woman-blue.png": "./static/media/woman-blue.bb4f365e865811b8ab43.png",
+    "static/media/video.png": "./static/media/video.56cb6628fd124fdb7544.png",
     "static/media/woman-yellow.png": "./static/media/woman-yellow.99cc08d033462f4e6ed2.png",
     "static/media/tvip.png": "./static/media/tvip.a69fb9793080ea60e6f5.png",
     "static/media/rate.png": "./static/media/rate.11dc4a9fa3072ef73f3d.png",
@@ -35,6 +39,7 @@
     "static/media/ResistSansDisplay-Light.ttf": "./static/media/ResistSansDisplay-Light.10a433a7b76428c35ec6.ttf",
     "static/media/map.png": "./static/media/map.2b29bd93feee1d0049a9.png",
     "static/media/rate-mobile.png": "./static/media/rate-mobile.327315fd362ee997e663.png",
+    "static/media/video-mobile.png": "./static/media/video-mobile.ebbf229dba0f0c60ff09.png",
     "static/media/tvip-mobile.png": "./static/media/tvip-mobile.42115e85f1b39fa54a58.png",
     "static/media/ResistSansText-Medium.woff": "./static/media/ResistSansText-Medium.4fafb62bb13e102ffa51.woff",
     "static/media/ResistSansText-Regular.woff": "./static/media/ResistSansText-Regular.9105a5340c773ed4d715.woff",
@@ -49,11 +54,19 @@
     "static/media/ResistSansDisplay-Medium.woff2": "./static/media/ResistSansDisplay-Medium.4ae85f364807677492af.woff2",
     "static/media/ResistSansDisplay-Regular.woff2": "./static/media/ResistSansDisplay-Regular.f42b6ac9a9f867392290.woff2",
     "static/media/ResistSansDisplay-Light.woff2": "./static/media/ResistSansDisplay-Light.947c73cb1963900e8e37.woff2",
+    "static/media/stock-mobile.png": "./static/media/stock-mobile.39dd1481b96ddc9180f5.png",
+    "static/media/movie-icon.svg": "./static/media/movie-icon.70302b3032c230e01c46401f242294ae.svg",
     "static/media/AppStore-Blue.svg": "./static/media/AppStore-Blue.f64c5a698f3c7d06a2974f448fc6e8b9.svg",
     "static/media/AppStore.svg": "./static/media/AppStore.24c4e0a643b68d7762faa2109c94867f.svg",
+    "static/media/kion.svg": "./static/media/kion.55b73e5d7f1da5fed5d6.svg",
+    "static/media/wifi-2.svg": "./static/media/wifi-2.a90cdbe06a7a12c7603b.svg",
+    "static/media/town.svg": "./static/media/town.16449fa362bff065a0b1.svg",
+    "static/media/calendar.svg": "./static/media/calendar.15f22ad29498deff8d72.svg",
+    "static/media/connection.svg": "./static/media/connection.06e607ab43d7a910b3e3f19ce309aff6.svg",
     "static/media/GooglePlay-Blue.svg": "./static/media/GooglePlay-Blue.13db69286109a42d9e382922bd5d0a2d.svg",
     "static/media/GooglePlay.svg": "./static/media/GooglePlay.0a79adc24eec7cfb6f0d987d8c5e9c26.svg",
     "static/media/AppStore-btn.svg": "./static/media/AppStore-btn.1dd932f2890aec2fa744e8e0ae430c1e.svg",
+    "static/media/phone.svg": "./static/media/phone.757e84b36fc6fdcc30b18418e83d1dbb.svg",
     "static/media/GooglePlay-btn.svg": "./static/media/GooglePlay-btn.9720ca39de23dd45af24067bcce1075e.svg",
     "static/media/globus.svg": "./static/media/globus.7c82d08965e4f2a51638.svg",
     "static/media/protect.svg": "./static/media/protect.20f2e95650a7df6560ca.svg",
@@ -63,15 +76,18 @@
     "static/media/infinity.svg": "./static/media/infinity.a649adc1e4276d4034c6.svg",
     "static/media/shield.svg": "./static/media/shield.11834a1ae42cdadd01f4.svg",
     "static/media/social-vk.svg": "./static/media/social-vk.45bc34f58928f613ee2dbfeca65b057e.svg",
+    "static/media/mtc.svg": "./static/media/mtc.e8f14d4fe80fd5a65615.svg",
     "index.html": "./index.html",
     "static/media/social-tg.svg": "./static/media/social-tg.508a80e3cf26d04f120592684e2f2094.svg",
     "static/media/button-dropdown.svg": "./static/media/button-dropdown.783ddcdd2136a1385b399509f2452756.svg",
+    "static/media/button-arrow.svg": "./static/media/button-arrow.be17eff041f62825b1367d9579c58f4f.svg",
+    "static/media/button-arrow--dark.svg": "./static/media/button-arrow--dark.0ca4f5fc1db8a9d63a214828f42e2ec0.svg",
     "static/media/Check.svg": "./static/media/Check.be647eae0ed92615d6b8.svg",
-    "main.eced2581.css.map": "./static/css/main.eced2581.css.map",
-    "main.069d35cb.js.map": "./static/js/main.069d35cb.js.map"
+    "main.81fb56ce.css.map": "./static/css/main.81fb56ce.css.map",
+    "main.5c63817d.js.map": "./static/js/main.5c63817d.js.map"
   },
   "entrypoints": [
-    "static/css/main.eced2581.css",
-    "static/js/main.069d35cb.js"
+    "static/css/main.81fb56ce.css",
+    "static/js/main.5c63817d.js"
   ]
 }
